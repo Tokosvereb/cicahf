@@ -1,0 +1,143 @@
+.tarolo {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.fejlec {
+  background-image: url(images/hero.jpg);
+  height: 100vh;
+  background-size: auto;
+  background-size: cover;
+}
+.menu {
+  display: flex;
+}
+.box {
+  background-color: orange;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 8px;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+p {
+  color: white;
+  text-align: center;
+}
+.keresemacicam {
+  background-color: orange;
+  border-radius: 20px;
+  padding: 10px;
+  width: 50%;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  width: 200px;
+}
+.masodikoldal {
+  background-color: black;
+}
+.masodikoldaldivek {
+  display: flex;
+}
+.cicak {
+  background-color: orange;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 8px;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+.harmadikoldal {
+  background-color: black;
+  margin: 0 auto;
+}
+.harmadikoldal h2{
+  color: white;
+  text-align: center;
+}
+.harmadikoldalkepek {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.kep {
+  max-width: 600px;
+  max-height: 600px;
+  margin: 37px;
+  border-radius: 35px;
+  padding: 10px;
+}
+.macska {
+  text-align: center;
+  margin: 10px;
+}
+.felsorolas {
+  margin: auto;
+  color: white;
+}
+.negyedikoldal{
+  background-color: black;
+  margin: 0 auto;
+}
+.negyedikoldalkepek{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.kep4{
+  max-width: 600px;
+  max-height: 600px;
+  margin: 37px;
+  border-radius: 35px;
+  padding: 10px;
+}
+.macskanegyedikoldal{
+  text-align: center;
+  margin: 10px;
+}
+.felsorolasnegyedikoldal{
+  margin: auto;
+  color: white;
+}
+.otodikoldal{
+  color: white;
+  background-color: black;
+}
+.otodikoldalboxok{
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 8px;
+  width: 100%;
+  text-align: center;
+  color: black;
+  display:grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+.tippek{
+  max-width: 144px;
+  max-height: 144px;
+}
+.hal{
+  max-width: 144px;
+  max-height: 144px;
+}
+.otodikoldalboxok h1{
+  text-align: left;
+  color: black;
+}
+.otodikoldalboxok p{
+  color: black;
+}
